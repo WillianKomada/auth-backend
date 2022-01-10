@@ -7,8 +7,8 @@
 ## 📝 Sobre
 
 <p>
-  Nesse projeto foi construido rotas de autenticação de usuário e refresh token, validando as permissões e rotas do usuário. Foi desenvolvido em conjunto com <a>https://github.com/WillianKomada/nextauth.git</a>
-</p>
+  Nesse projeto foi construido rotas de autenticação de usuário e refresh token, validando as permissões e rotas do usuário. Foi desenvolvido em conjunto com 
+</p> <a>https://github.com/WillianKomada/nextauth.git</a>
 
 ---
 
